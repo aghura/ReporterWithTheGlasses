@@ -874,6 +874,7 @@ ul{
 }
 
 .lf1 h1{
+	z-index: 5;
 	float: left;
 	width: 70%;
 	font-size: 2.15vw;
@@ -891,6 +892,7 @@ ul{
 }
 
 .lf2 video{
+	z-index: 4;
 	outline: none;
 	margin: -.3vw .17vw;
 	height: 98.5%;
@@ -907,6 +909,7 @@ ul{
 }
 
 .lf3 video{
+	z-index: 4;
 	outline: none;
 	margin: -.359vw -2.6vw;
 	height: 98.9%;
