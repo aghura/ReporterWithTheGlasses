@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="612pt" height="792pt" viewBox="0 0 612 792">
+<g enable-background="new">
+<clipPath id="cp74">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 0 0 L 612 0 L 612 792 L 0 792 Z "/>
+</clipPath>
+<g clip-path="url(#cp74)">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 0 792 L 612 792 L 612 0 L 0 0 Z " fill="#ffffff"/>
+<g id="Layer-1" data-name="P">
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<clipPath id="cp75">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 68.67773 72 L 543.3222 72 L 543.3222 721 L 68.67773 721 Z "/>
+</clipPath>
+<g clip-path="url(#cp75)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 72 148.38483)" font-size="12" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="0 8.004001 14.004001 17.3376 22.663203 25.663203">Note. </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 72 148.38483)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="28.66406 35.99366 41.99366 47.31926 50.31926 56.31926 60.315259 66.31526 72.31526 75.64886 81.64886 84.98245 87.98245 95.31205 98.645648 104.645648 109.971248 113.96725 117.30084 120.30084 124.971248 130.29685 135.62245 138.95606 144.28166 147.28166 151.27767 156.60327 162.60327 166.59928 171.92488 176.59528 181.92089 187.92089 191.25449 196.5801 202.5801 205.5801 208.9137 214.9137 220.2393 223.2393 227.2353 233.2353 236.56891 239.90251 245.90251 254.56891 257.9025 263.9025 269.9025 272.9025 278.9025 284.2281 288.2241 291.55769 296.88328 302.88328 306.21687 311.54246 316.21287 319.54646 322.54646 327.44486 336.11128 341.43687 346.76246 350.75846 356.08406 361.40965 366.08006 371.40565 377.40565 380.40565 387.08006 390.41365 396.41365 402.41365 405.74723 409.74324 413.0768 418.4024 423.728 429.728 433.06159 436.39518 442.39518 447.29359 451.28959 457.28959 461.28559 464.28559">The 5-point Likert scale represented the following variables: "Decreased Significantly"(1), </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 72 177.875)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 4.8984005 13.564801 18.890402 24.216004 28.212004 33.537607 38.863206 43.533605 48.859205 54.859205 57.859205 64.53361 67.8672 71.2008 77.2008 83.2008 86.53439 89.86799 95.86799 100.766399 104.7624 110.7624 114.7584 117.7584 120.7584 125.65681 134.3232 140.3232 143.3232 151.3272 157.3272 162.6528 168.6528 174.6528 179.97841 184.8768 188.8728 194.8728 198.8688 201.8688 204.8688 209.7672 213.7632 219.7632 225.0888 229.08481 234.41042 239.73603 244.40642 249.73203 255.73203 258.73204 265.40644 268.74003 272.0736 278.0736 284.0736 287.4072 290.74079 296.74079 301.6392 305.6352 311.6352 315.6312 318.6312 321.6312 326.9568 332.9568 338.9568 341.9568 346.8552 350.8512 356.8512 362.1768 366.1728 371.49839 376.82398 381.4944 386.81999 392.81999">"Decreased Slightly"(2), "No Change"(3), "Increased Slightly"(4), and "Increased </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 72 207.36518)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.674401 10.008 16.008 22.008 25.3416 29.3376 32.6712 37.9968 43.3224 49.3224 52.656003 55.989606 61.989606 66.88801 70.88401 76.88401 80.88001 83.88001 86.66281 93.99241 99.99241 105.31801 109.98841 115.31401 118.31401 124.31401 129.63962 132.97322 138.97322 144.29883 148.96923 151.96923 157.29483 161.29084 166.61644 169.61644 175.61644 181.61644 184.95005 187.95005 191.94605 197.27165 203.27165 207.26766 212.59326 217.26366 222.58927 228.58927 231.92287 237.24848 240.58208 243.91568 249.91568 255.24129 258.24128 264.24128 268.23728 271.23728 274.57087 280.57087 285.89646 288.89646 295.57087 298.90446 304.23005 310.23005 316.23005 321.55564 325.55165 331.55165 334.55165 343.21806 348.54365 354.54365 357.87724 363.20283 366.5364 369.87 375.87 381.87">Significantly"(5). These values are not representative of the Standard Deviation.</tspan></text>
+<g id="Layer-2" data-name="Span">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 72 207.36518)" font-size="12" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="384.8848"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#0e101a" xml:space="preserve" transform="matrix(1 0 -0 1 72 266.3457)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="0" x="0 6.674401 10.008 14.678401 20.004002 24.6744 29.344799 32.3448 36.340799 41.011198 47.011198 56.3448 59.3448 66.67439 71.99999 77.32559 81.995998">Stress from Peers</tspan></text>
+<g id="Layer-2" data-name="Span">
+<text fill="#0e101a" xml:space="preserve" transform="matrix(1 0 -0 1 72 266.3457)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="86.66602"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#0e101a" xml:space="preserve" transform="matrix(1 0 -0 1 108 295.8359)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 8.666401 12.000001 15.333601 21.333601 27.333601 33.333604 39.333604 45.333604 48.333604 54.333604 60.333604 70.329608 73.329608 79.329608 83.32561 86.32561 89.6592 95.6592 100.9848 103.9848 108.655208 111.9888 117.9888 123.9888 129.3144 135.3144 138.64801 143.3184 146.3184 152.3184 155.65201 161.65201 164.65201 170.65201 176.65201 179.98561 182.98561 188.31122 194.31122 200.31122 205.63683 209.63283 212.96643 218.29204 224.29204 229.61765 234.94326 237.94326 243.26886 249.26886 255.26886 258.26887 262.93928 266.27287 270.26887 275.59446 280.26487 284.93528 287.93528 291.93128 295.92729 301.92729 311.26087 314.26087 320.26087 325.58647 330.91206 334.90806 339.57847 342.57847 348.57847 354.57847 358.57447 361.90806 367.90806 373.90806 376.90806 380.24165 386.24165 391.56724">Although 55% of the students did not experience any stress from peers during the </tspan></text>
+<text fill="#0e101a" xml:space="preserve" transform="matrix(1 0 -0 1 72 325.3262)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 8.004001 16.6704 25.3368 29.3328 37.9992 41.995199 47.995199 53.995199 56.995199 60.3288 66.3288 71.654399 77.654399 83.654399 89.654399 98.3208 104.3208 107.3208 110.3208 116.3208 119.654399 125.654399 131.65439 134.65439 139.98 145.98 155.3136 161.3136 166.6392 169.97281 173.30641 176.64002 179.97362 185.97362 191.97362 194.97362 200.29923 209.63283 215.63283 221.63283 227.63283 230.63283 236.63283 241.95844 247.28404 251.28005 255.95044 258.95045 262.28404 268.28404 272.28004 278.28004 283.60563 289.60563 292.60563 298.60563 304.60563 307.9392 310.9392 314.2728 320.2728 323.2728 329.2728 334.5984 337.5984 340.93199 346.93199 352.25758 355.25758 364.59117 370.59117 375.26158 378.59516 381.59516 386.92076 392.92076 402.25434 411.58793 417.58793 423.58793 426.9215 432.9215 435.9215 441.2471 444.5807 447.91429 453.23988 459.23988">COVID-19 lockdown, high competition among peers turned out to be the most commonly cited </tspan></text>
+<text fill="#0e101a" xml:space="preserve" transform="matrix(1 0 -0 1 72 354.8164)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 11.325601 16.651202 20.647202 23.647202 28.3176 31.651202 35.6472 40.9728 45.6432 50.3136 56.3136 60.309598 63.309598 67.305599 73.7976 79.1232 85.1232 88.456798 93.782398 96.782398 102.782398 106.7784 109.7784 112.7784 120.107997 126.107997 131.4336 137.4336 140.4336 143.7672 149.7672 155.7672 161.7672 167.7672 173.7672 176.7672 180.1008 186.1008 191.4264 194.4264 197.76001 203.76001 209.08562 215.08562 221.08562 227.08562 235.75202 241.75202 244.75202 248.74802 254.07363 258.74406 264.74406 268.07765 271.41123 276.73683 282.73683 285.73683 289.0704 295.0704 298.0704 301.404 307.404 312.72959 316.7256 322.05119 327.37678 332.04719 337.37278 343.37278 346.37278 351.04319 356.36878 360.36479 365.69038 371.01597 377.01597 380.01597 383.34956 386.68315 396.01673 401.34233 404.34233 408.33833 414.33833 418.33433 421.33433 426.00474 429.33833 435.33833 441.33833 446.6639 452.6639 455.9975 460.6679">peer stressor (Table 3). Even though the lockdown resulted in increased screen time for students </tspan></text>
+<text fill="#0e101a" xml:space="preserve" transform="matrix(1 0 -0 1 72 384.3066)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6 12 17.325602 20.325602 23.659203 29.659203 32.659204 35.9928 41.9928 47.3184 50.3184 53.652006 59.652006 62.985609 66.981609 72.981609 78.981609 84.981609 90.307209 93.6408 96.974399 102.974399 108.974399 111.974399 117.974399 121.9704 124.9704 130.9704 136.9704 140.304 143.6376 149.6376 154.96321 157.96321 163.28882 166.62242 171.94803 176.61843 181.28882 186.61443 191.28482 194.28482 199.61043 205.61043 211.61043 214.61043 219.93604 222.93604 232.26964 238.26964 242.26564 247.59125 250.59125 255.26165 258.59526 264.59526 270.59526 273.92884 277.92485 281.25843 286.584 291.9096 297.9096 301.2432 304.2432 308.2392 314.2392 317.57279 322.89839 325.89839 331.89839 335.89439 338.89439 343.5648 349.5648 354.89039 358.22398 363.54957 366.88316 369.88316 379.21675 384.54234 390.54234 393.87593 399.2015 402.2015 405.2015 408.5351 414.5351 419.8607 422.8607 427.5311 430.8647 436.19029 439.52388 442.85746 447.52787 450.86146 454.19505 459.52064 464.19105">due to the introduction of online classes and a more significant role of social media, the statistics </tspan></text>
+<text fill="#0e101a" xml:space="preserve" transform="matrix(1 0 -0 1 72 413.7969)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 3.996 9.3216 15.3216 20.647202 25.972804 29.306405 32.306406 37.632005 43.632005 49.632005 54.957605 58.9536 61.9536 66.62401 69.9576 73.953609 79.279209 83.94961 88.62001 91.62001 96.94561 102.94561 108.94561 111.94561 117.27121 123.27121 129.27121 134.59682 138.59282 144.59282 150.59282 153.92642 157.26003 163.26003 166.59363 172.59363 178.59363 181.59363 186.91924 190.69805 194.69405 200.01966 205.34526 208.67887 214.00447 220.00447 223.00447 228.33008 231.33008 236.00048 245.33408 250.65969 253.99329 257.32688 260.32688 266.32688 270.32289 276.32289 282.32289 288.32289 292.31889 295.65248 298.98606 304.98606 310.98606 313.98606 319.98606 323.98207 326.98207 331.65248 334.98606 340.98606 346.98606 352.31166 358.31166 361.64524 366.31565 369.31565 372.31565 378.31565 384.31565 387.31565 393.31565 403.31166 406.31166 410.30766 416.30766 422.30766 426.30366 429.30366 435.30366 439.29966 442.29966 445.63325 451.63325 456.95884">reveal cyber stress and cyberbullying affected a small proportion of students. 25.9% (57) of the </tspan></text>
+<text fill="#0e101a" xml:space="preserve" transform="matrix(1 0 -0 1 72 443.2871)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 3.996 9.3216 13.992001 19.992 25.992 31.992 37.992 43.3176 49.3176 52.651205 57.3216 60.3216 64.317607 69.6432 72.9768 76.310398 79.310398 82.64399 88.64399 93.96959 97.303188 100.303188 103.63678 109.63678 114.96238 117.96238 122.63278 125.96638 129.96237 135.28798 139.95838 144.62877 147.62877 151.62477 155.62078 161.62078 170.95438 173.95438 179.95438 185.27999 190.60559 194.6016 199.27199 202.27199 207.5976 211.3764 215.3724 220.69802 226.02362 229.35723 234.68283 240.68283 243.68283 247.01644 253.01644 258.342 267.6756 270.6756 276.6756 282.0012 288.0012 293.32679 296.66038 299.99397 305.99397 311.31956 314.65315 320.65315 323.65315 326.98674 332.98674 335.98674 339.3203 344.6459 348.6419 357.9755 362.6459 365.6459 371.6459 375.6419 378.6419 387.9755 393.3011 399.3011 402.63468 407.96028 411.29386 414.29386 420.29386 425.61946 430.94505 434.27864 437.6122 443.6122 446.6122 451.9378 457.9378 463.9378">respondents felt that the stress from peers affected them negatively in terms of mental health and </tspan></text>
+<text fill="#0e101a" xml:space="preserve" transform="matrix(1 0 -0 1 72 472.7773)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 8.666401 13.992002 17.325604 20.659205 24.655205 30.655205 35.980806 39.314405 45.314405 51.314405 54.314405 57.097204 64.426799 70.426799 75.752399 78.752399 84.752399 88.7484 94.7484 100.7484 104.08199 110.08199 113.41559 116.41559 123.745189 127.07878 133.07878 138.40439 142.40039 145.734 148.734 153.40439 158.73 164.0556 167.3892 172.71482 175.71482 181.04042 187.04042 192.36603 195.69963 201.69963 206.37003 209.70363 214.37403 217.37403 221.37003 227.86203 233.18764 239.18764 242.52124 247.84685 250.84685 256.84687 260.84288 263.84288 269.84288 273.17646 277.84687 283.17247 286.50605 292.50605 297.17646 302.50205 308.50205 311.50205 314.83564 320.83564 326.16123 329.4948 332.4948 341.8284 347.8284 352.4988 355.8324 358.8324 363.5028 366.8364 372.8364 378.8364 384.162 390.162 393.49559 398.166 401.166 407.166 410.49958 416.49958 419.49958 425.49958 431.49958 434.83317">well-being. The 5-point Likert scale analysis (Table 4) disclosed that most students did not </tspan></text>
+<text fill="#0e101a" xml:space="preserve" transform="matrix(1 0 -0 1 72 502.2676)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 5.3256008 11.325601 17.3256 22.651202 26.647202 29.980803 35.306406 41.306406 46.632005 51.957605 54.957605 60.283205 66.2832 72.2832 75.2832 80.6088 86.6088 91.9344 97.9344 103.9344 109.26 112.26 115.5936 121.5936 124.5936 129.26399 132.5976 136.5936 141.9192 146.5896 151.26 154.26 160.26 166.26 171.5856 174.5856 177.9192 183.9192 186.9192 192.9192 198.24481 203.57042 207.56642 212.23682 215.23682 221.23682 227.23682 231.23282 234.56642 240.56642 246.56642 249.56642 252.90003 258.90003 264.22563 267.22563 270.5592 276.5592 281.8848 287.8848 293.8848 299.8848 308.5512 314.5512">experience any change in stress due to peers during the lockdown.</tspan></text>
+<g id="Layer-2" data-name="Span">
+<text fill="#0e101a" xml:space="preserve" transform="matrix(1 0 -0 1 72 502.2676)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="317.5605"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 72 561.248)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="0" x="0 6.9024007 12.902401 19.576802 22.910403 28.236004 31.236004">Table 3</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 72 561.248)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="37.23633"> </tspan></text>
+<g id="Layer-2" data-name="Span">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 72 561.248)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="40.23633"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 72 590.7383)" font-size="12" font-family="TimesNewRomanPS" font-style="italic"><tspan y="0" x="0 6 9.3336 13.5588 18.884402 23.554802 28.2252 31.2252 34.558805 38.784006 44.784006 53.450407 56.450407 63.780008 69.78001 78.44641 81.78001 85.1136">Stress from Family</tspan></text>
+<g id="Layer-2" data-name="Span">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 72 590.7383)" font-size="12" font-family="TimesNewRomanPSMT"><tspan y="0" x="90.43945"> </tspan></text>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<g id="Layer-2" data-name="P">
+</g>
+<clipPath id="cp76">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 71 668.5 L 504 668.5 L 504 720.5 L 71 720.5 Z "/>
+</clipPath>
+<g clip-path="url(#cp76)">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 72 695.5 L 375.65 695.5 L 375.65 671.5 L 72 671.5 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 375.65 695.5 L 503 695.5 L 503 671.5 L 375.65 671.5 Z " fill="#ffffff"/>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+<g id="Layer-6" data-name="P">
+</g>
+<clipPath id="cp77">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 72 672 L 375.65 672 L 375.65 695.5 L 72 695.5 Z "/>
+</clipPath>
+<g clip-path="url(#cp77)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 79 113.265079)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.952501 10.425002 15.972503 22.222504 28.472504 34.020006 38.182504 44.432504 47.557504 56.585004 62.132505 68.38251 71.855 77.402507 80.875 84.347499 90.597499">Standard Deviation</tspan></text>
+</g>
+</g>
+<g id="Layer-5" data-name="P">
+<g id="Layer-6" data-name="P">
+</g>
+<clipPath id="cp78">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 375.65 672 L 503 672 L 503 695.5 L 375.65 695.5 Z "/>
+</clipPath>
+<g clip-path="url(#cp78)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 429.5875 113.265079)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.25 9.375 15.625">0.94</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<clipPath id="cp79">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 71 668.5 L 504 668.5 L 504 720.5 L 71 720.5 Z "/>
+</clipPath>
+<g clip-path="url(#cp79)">
+<path transform="matrix(1,0,0,1,71,71.5)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 1 49 L 432 49 "/>
+</g>
+</g>
+<g id="Layer-2" data-name="P">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 72 719.5 L 375.65 719.5 L 375.65 695.5 L 72 695.5 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 375.65 719.5 L 503 719.5 L 503 695.5 L 375.65 695.5 Z " fill="#ffffff"/>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+<g id="Layer-6" data-name="P">
+</g>
+<clipPath id="cp80">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 72 696 L 375.65 696 L 375.65 719 L 72 719 Z "/>
+</clipPath>
+<g clip-path="url(#cp80)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 203.5071 88.765079)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 11.115001 16.6625 22.210001 27.075003 33.325006 37.487504">Measure</tspan></text>
+</g>
+</g>
+<g id="Layer-5" data-name="P">
+<g id="Layer-6" data-name="P">
+</g>
+<clipPath id="cp81">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 375.65 696 L 503 696 L 503 719 L 375.65 719 Z "/>
+</clipPath>
+<g clip-path="url(#cp81)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 426.2946 88.765079)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 7.6412508 13.188752 16.661253 22.911253">Value</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<clipPath id="cp82">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 71 668.5 L 504 668.5 L 504 720.5 L 71 720.5 Z "/>
+</clipPath>
+<g clip-path="url(#cp82)">
+<path transform="matrix(1,0,0,1,71,71.5)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 1 25 L 432 25 "/>
+<path transform="matrix(1,0,0,1,71,71.5)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 1 1 L 432 1 "/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<clipPath id="cp83">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 76.4 85.16602 L 510.4 85.16602 L 510.4 184.16602 L 76.4 184.16602 Z "/>
+</clipPath>
+<g clip-path="url(#cp83)">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 77.4 182.166 L 325.75 182.166 L 325.75 158.166 L 77.4 158.166 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 325.75 182.166 L 404.25 182.166 L 404.25 158.166 L 325.75 158.166 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 404.25 182.166 L 508.4 182.166 L 508.4 158.166 L 404.25 158.166 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 77.4 158.166 L 325.75 158.166 L 325.75 134.166 L 77.4 134.166 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 325.75 158.166 L 404.25 158.166 L 404.25 134.166 L 325.75 134.166 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 404.25 158.166 L 508.4 158.166 L 508.4 134.166 L 404.25 134.166 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 77.4 134.166 L 325.75 134.166 L 325.75 110.166 L 77.4 110.166 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 325.75 134.166 L 404.25 134.166 L 404.25 110.166 L 325.75 110.166 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 404.25 134.166 L 508.4 134.166 L 508.4 110.166 L 404.25 110.166 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 77.4 110.166 L 325.75 110.166 L 325.75 86.16602 L 77.4 86.16602 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 325.75 110.166 L 404.25 110.166 L 404.25 86.16602 L 325.75 86.16602 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M 404.25 110.166 L 508.4 110.166 L 508.4 86.16602 L 404.25 86.16602 Z " fill="#ffffff"/>
+<g id="Layer-2" data-name="P">
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp84">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 77.4 158.666 L 325.75 158.666 L 325.75 181.666 L 77.4 181.666 Z "/>
+</clipPath>
+<g clip-path="url(#cp84)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 182.6365 626.0991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.952501 10.425002 14.587502 20.135003 25.000002 29.865004 36.115007">Stressor</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp85">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 325.75 158.666 L 404.25 158.666 L 404.25 181.666 L 325.75 181.666 Z "/>
+</clipPath>
+<g clip-path="url(#cp85)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 339.8206 626.0991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.952501 11.115001 16.6625 22.9125 29.1625 34.710004 40.960004 46.507505">Frequency</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp86">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 404.25 158.666 L 508.4 158.666 L 508.4 181.666 L 404.25 181.666 Z "/>
+</clipPath>
+<g clip-path="url(#cp86)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 438.7842 626.0991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.952501 12.500002 16.662503 22.210003 27.757504 34.007505">Percent</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g id="Layer-2" data-name="P">
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp87">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 77.4 134.166 L 325.75 134.166 L 325.75 157.666 L 77.4 157.666 Z "/>
+</clipPath>
+<g clip-path="url(#cp87)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 84.4 651.0991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 9.0275 15.2775 18.4025 23.2675 26.74 30.9025 36.45 41.315 46.179998 49.304998 53.467496 57.629995 63.879995 73.60249 76.72749 82.97749 88.524997 94.072498 98.23499">No stress from peers</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp88">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 325.75 134.166 L 404.25 134.166 L 404.25 157.666 L 325.75 157.666 Z "/>
+</clipPath>
+<g clip-path="url(#cp88)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 356.825 651.0991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.25 12.5">121</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp89">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 404.25 134.166 L 508.4 134.166 L 508.4 157.666 L 404.25 157.666 Z "/>
+</clipPath>
+<g clip-path="url(#cp89)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 441.3812 651.0991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.25 12.5 15.625 21.875">55.0%</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp90">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 77.4 110.166 L 325.75 110.166 L 325.75 134.166 L 77.4 134.166 Z "/>
+</clipPath>
+<g clip-path="url(#cp90)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 84.4 674.5991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 9.0275 12.500001 18.75 25 28.125 33.6725 39.9225 49.645 55.895 61.4425 64.915 68.3875 71.85999 75.33249 81.58249 87.83249 90.95749 96.50499 106.227489 112.477489 118.727489 124.977489 128.10248 134.35248 139.89998 145.44748 149.60999">High competition among peers</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp91">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 325.75 110.166 L 404.25 110.166 L 404.25 134.166 L 325.75 134.166 Z "/>
+</clipPath>
+<g clip-path="url(#cp91)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 359.95 674.5991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.25">80</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp92">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 404.25 110.166 L 508.4 110.166 L 508.4 134.166 L 404.25 134.166 Z "/>
+</clipPath>
+<g clip-path="url(#cp92)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 441.3812 674.5991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.25 12.5 15.625 21.875">36.4%</tspan></text>
+</g>
+</g>
+</g>
+<g id="Layer-3" data-name="P">
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp93">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 77.4 86.16602 L 325.75 86.16602 L 325.75 110.16602 L 77.4 110.16602 Z "/>
+</clipPath>
+<g clip-path="url(#cp93)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 84.4 698.5991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 4.1625 10.4125 13.885001 19.4325 23.595002 29.845002 35.3925 39.555 44.42 50.67 56.92 62.4675 65.939998 69.064998 75.314998 79.47749 85.72749 91.97749 95.44999 100.99749 110.719989">Interpersonal problems</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp94">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 325.75 86.16602 L 404.25 86.16602 L 404.25 110.16602 L 325.75 110.16602 Z "/>
+</clipPath>
+<g clip-path="url(#cp94)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 359.95 698.5991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.25">31</tspan></text>
+</g>
+</g>
+<g id="Layer-4" data-name="P">
+<g id="Layer-5" data-name="P">
+</g>
+<clipPath id="cp95">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 404.25 86.16602 L 508.4 86.16602 L 508.4 110.16602 L 404.25 110.16602 Z "/>
+</clipPath>
+<g clip-path="url(#cp95)">
+<text fill="#010204" xml:space="preserve" transform="matrix(1 0 -0 1 441.3812 698.5991)" font-size="12.5" font-family="TimesNewRomanPSMT"><tspan y="0" x="0 6.25 12.5 15.625 21.875">14.1%</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<clipPath id="cp96">
+<path transform="matrix(1,0,0,-1,0,792)" d="M 76.4 85.16602 L 510.4 85.16602 L 510.4 184.16602 L 76.4 184.16602 Z "/>
+</clipPath>
+<g clip-path="url(#cp96)">
+<path transform="matrix(1,0,0,1,76.4,607.834)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 1 26 L 432 26 "/>
+<path transform="matrix(1,0,0,1,76.4,607.834)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 1 2 L 432 2 "/>
+</g>
+</g>
+</g>
+</g>
+</svg>
