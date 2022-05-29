@@ -865,28 +865,26 @@ ul{
 
 
 .lf1{
-	display: flex;
-	justify-content: center;
-	align-items: center;
 	position: absolute;
 	height: 14.4vw;
 	width: 100%;
-	margin: auto;
 	box-sizing: border-box;
 	border-top: 0.4824259131633356vw #000000 solid;
-	z-index: 3;
+
 }
 
 .lf1 h1{
+	float: left;
+	width: 70%;
 	font-size: 2.15vw;
 	font-family: "Charter Black", "Charter Bold";
 	text-align: center;
+	margin-top: 4%;
 }
 
 .lf2{
-	z-index: 1;
-	position: absolute;
-	width: 100%;
+	float: left;
+	width: 15%;
 	height: 14.4vw;
 	box-sizing: border-box;
 	overflow: hidden;
@@ -894,19 +892,15 @@ ul{
 
 .lf2 video{
 	outline: none;
-	float: left;
-	height: 100%;
-	margin-left: -.05vw;
-	margin-top: .06vw;
+	margin: -.3vw .17vw;
+	height: 98.5%;
 	clip-path: inset(1px 1px);
 	box-sizing: border-box;
-	width: 17.8%;
 }
 
 .lf3{
-	z-index: 2;
-	position: absolute;
-	width: 100%;
+	float: left;
+	width: 15%;
 	height: 14.4vw;
 	box-sizing: border-box;
 	overflow: hidden;
@@ -914,11 +908,10 @@ ul{
 
 .lf3 video{
 	outline: none;
-	float: right;
-	height: 100%;
+	margin: -.359vw -2.6vw;
+	height: 98.9%;
 	clip-path: inset(1px 1px);
 	box-sizing: border-box;
-	width: 17.87%;
 }
 
 

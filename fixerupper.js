@@ -156,5 +156,4 @@ $("#peeboop").on("click", function showImage() {
     img6.style.visibility = 'visible';
 });
 	
-
 })
